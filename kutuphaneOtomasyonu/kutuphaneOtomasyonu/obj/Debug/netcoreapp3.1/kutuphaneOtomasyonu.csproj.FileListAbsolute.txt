@@ -1,0 +1,9 @@
+C:\Users\Yakup\Desktop\github\c#_otomasyon\kutuphane_otomasyonu\kutuphaneOtomasyonu\kutuphaneOtomasyonu\obj\Debug\netcoreapp3.1\kutuphaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Yakup\Desktop\github\c#_otomasyon\kutuphane_otomasyonu\kutuphaneOtomasyonu\kutuphaneOtomasyonu\obj\Debug\netcoreapp3.1\kutuphaneOtomasyonu.Form1.resources
+C:\Users\Yakup\Desktop\github\c#_otomasyon\kutuphane_otomasyonu\kutuphaneOtomasyonu\kutuphaneOtomasyonu\obj\Debug\netcoreapp3.1\kutuphaneOtomasyonu.formKisiIslrmlri.resources
+C:\Users\Yakup\Desktop\github\c#_otomasyon\kutuphane_otomasyonu\kutuphaneOtomasyonu\kutuphaneOtomasyonu\obj\Debug\netcoreapp3.1\kutuphaneOtomasyonu.Properties.Resources.resources
+C:\Users\Yakup\Desktop\github\c#_otomasyon\kutuphane_otomasyonu\kutuphaneOtomasyonu\kutuphaneOtomasyonu\obj\Debug\netcoreapp3.1\kutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Yakup\Desktop\github\c#_otomasyon\kutuphane_otomasyonu\kutuphaneOtomasyonu\kutuphaneOtomasyonu\obj\Debug\netcoreapp3.1\kutuphaneOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yakup\Desktop\github\c#_otomasyon\kutuphane_otomasyonu\kutuphaneOtomasyonu\kutuphaneOtomasyonu\obj\Debug\netcoreapp3.1\kutuphaneOtomasyonu.AssemblyInfoInputs.cache
+C:\Users\Yakup\Desktop\github\c#_otomasyon\kutuphane_otomasyonu\kutuphaneOtomasyonu\kutuphaneOtomasyonu\obj\Debug\netcoreapp3.1\kutuphaneOtomasyonu.AssemblyInfo.cs
+C:\Users\Yakup\Desktop\github\c#_otomasyon\kutuphane_otomasyonu\kutuphaneOtomasyonu\kutuphaneOtomasyonu\obj\Debug\netcoreapp3.1\kutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
